@@ -47,6 +47,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.cs.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -58,3 +60,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# OS Generated
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Unity Collab
+.collabignore
