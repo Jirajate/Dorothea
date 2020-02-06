@@ -4,7 +4,7 @@
 
 **[click on an image to watch stroy intro.]**
 
-Dorothea is a game project that I (Programmer) and my friend (Artist) developed for compettition (National Software Contest 2017) in late 2016 to early 2017. This is the first time that we get started using Unity and learning it by watching a lot of Youtube videos. But that wasn't enough to make a complete game though. At that time I don't even know how to pass variables between scripts or making a good 2D player movement yet. The mechanic of the game is just Fez alike. You can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating boss, you will get part of the "Earth Core" back, collected all of them to save the world. This game isn't available anywhere because it was only playable with my old joystick which is broken long time ago and The game has a lot of bug. So I think if I create a new Unity project, it would be easier than debugging a lot of scripts.
+Dorothea is a game project that I (Programmer) and my friend (Artist) developed for compettition (National Software Contest 2017) in late 2016 to early 2017. This is the first time that we get started using Unity and learning it by watching a lot of Youtube videos. But that wasn't enough to make a complete game though. At that time I don't even know how to pass variables between scripts or making a good 2D player movement yet. The mechanic of the game is just Fez alike. You can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating boss, you will get part of the "Earth Core" back, collect them all to save the world. This game isn't available anywhere because it was only playable with my old joystick which is broken long time ago and The game has a lot of bug. So I think if I create a new Unity project, it would be easier than debugging a lot of scripts.
 
 ![](https://media.giphy.com/media/ckBcXaxTG34trJ44h0/giphy.gif)
 
@@ -18,9 +18,13 @@ Dorothea is a game project that I (Programmer) and my friend (Artist) developed 
 
 **[you can rotate a camera to solve a puzzle.]**
 
-![](https://media.giphy.com/media/Tg6vDN7RR3A00YoOxJ/giphy.gif)
+![](https://media.giphy.com/media/LRfLbCIXOrVfau7P5F/giphy.gif)
 
 **[in the last scene, you have to tap the button at the same time as the beat to defeat boss.]**
+
+# Achievement
+* **Honorable Mention of National Software Contest 2017 in Game Category.**
+* **Got 2 Torkla Challenge Tokens by SCB Foundation.**
 
 # Installation 
 **Warning : this project has been moved from Unity Collaborate some features might not work properly.**
