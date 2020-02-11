@@ -4,7 +4,7 @@
 
 **[click on an image to watch stroy intro.]**
 
-Dorothea is a game project that I (Programmer) and my friend (Artist) developed for compettition (National Software Contest 2017) in late 2016 to early 2017. This is the first time that we get started using Unity and learning it by watching a lot of Youtube videos. But that wasn't enough to make a complete game though. At that time I don't even know how to pass variables between scripts or making a good 2D player movement yet. The mechanic of the game is just Fez alike. You can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating boss, you will get part of the "Earth Core" back, collect them all to save the world. This game isn't available anywhere because it was only playable with my old joystick which is broken long time ago and The game has a lot of bug. So I think if I create a new Unity project, it would be easier than debugging a lot of scripts.
+Dorothea is a fez-like adventure game combined with rythm mechanic. The concept of the game is you can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference from FEZ is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating the boss, you will get part of the "Earth Core" back. You have to collect 4 pieces of them and combine it to save the world.
 
 ![](https://media.giphy.com/media/ckBcXaxTG34trJ44h0/giphy.gif)
 
@@ -29,7 +29,7 @@ Dorothea is a game project that I (Programmer) and my friend (Artist) developed 
 # Installation 
 **Warning : this project has been moved from Unity Collaborate some features might not work properly.**
 1. Clone or download Dorothea.zip
-1. Extract the archive and run Dorothea.exe inside the Dorothea folder.
+1. Extract the archive and run Dorothea.exe inside Dorothea folder.
 1. Customize your setting and click "Play!".
 1. Enjoy!
 
@@ -41,5 +41,5 @@ Dorothea is a game project that I (Programmer) and my friend (Artist) developed 
 1. A, B, X, Y : Use special abilities.
 
 # Team Member
-* Jirajate Jantarawong (https://connect.unity.com/u/jirajate-jantarawong)
-* Pimpaka Lertjittikun (https://connect.unity.com/u/pimpaka-lertjittikun)
+* Jirajate Jantarawong (me)
+* Pimpaka Lertjittikun (https://www.linkedin.com/in/pimpakkard)
