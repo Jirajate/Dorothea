@@ -4,7 +4,7 @@
 
 **[click on an image to watch stroy intro.]**
 
-Dorothea is a fez-like adventure game combined with rythm mechanic. The concept of the game is you can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference from FEZ is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating the boss, you will get part of the "Earth Core" back. You have to collect 4 pieces of them and combine it to save the world.
+Dorothea is a fez-like adventure game combined with rhythm mechanic. The concept of the game is you can see thing only in classic 2D but you have to rotate a camera to solve a puzzle in 3D world. The only difference from FEZ is you can also turn, and also have to tap the button at the same as the beat to defeat Boss in the last scene. After defeating the boss, you will get part of the “Earth Core” back. You have to collect 4 pieces of them and combine it to save the world.
 
 ![](https://media.giphy.com/media/ckBcXaxTG34trJ44h0/giphy.gif)
 
@@ -22,7 +22,7 @@ Dorothea is a fez-like adventure game combined with rythm mechanic. The concept 
 
 **[in the last scene, you have to tap the button at the same time as the beat to defeat boss.]**
 
-# Achievement
+# Achievements
 * **Honorable Mention of National Software Contest 2017 in Game Category.**
 * **Got 2 Torkla Challenge Tokens by SCB Foundation.**
 
@@ -40,6 +40,6 @@ Dorothea is a fez-like adventure game combined with rythm mechanic. The concept 
 1. RB : Jump.
 1. A, B, X, Y : Use special abilities.
 
-# Team Member
+# Team Members
 * Jirajate Jantarawong (me)
 * Pimpaka Lertjittikun (https://www.linkedin.com/in/pimpakkard)
