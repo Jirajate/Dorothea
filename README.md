@@ -41,5 +41,5 @@
 1. A, B, X, Y : Use special abilities.
 
 # Team Members
-* Jirajate Jantarawong (me)
-* Pimpaka Lertjittikun (https://www.linkedin.com/in/pimpakkard)
+* Jirajate Jantarawong as Programmer and Game Designer (me)
+* Pimpaka Lertjittikun as Artist (https://www.linkedin.com/in/pimpakkard)
